@@ -1,3 +1,2 @@
-nacos
 registry
 haproxy
