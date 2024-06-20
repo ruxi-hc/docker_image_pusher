@@ -1,6 +1,2 @@
 elasticsearch
-jenkins
-nacos
-composer
-swarm
-neo4j
+
