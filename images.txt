@@ -1,7 +1,4 @@
-ruby
-centos
-zookeeper
-tomcat
+
 elasticsearch
 jenkins
 nacos
