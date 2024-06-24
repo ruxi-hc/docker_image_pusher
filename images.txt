@@ -1,1 +1,1 @@
-kube-state-metrics
+mysql
