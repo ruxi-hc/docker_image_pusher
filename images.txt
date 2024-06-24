@@ -1,4 +1,3 @@
-nginx
 kube-state-metrics
 postgres
 mysql
