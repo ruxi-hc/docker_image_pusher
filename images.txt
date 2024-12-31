@@ -1,1 +1,11 @@
-orcale
+alpine
+redis
+postgres
+python
+node
+mysql
+traefik
+registry
+elasticsearch
+tomcat
+zookeeper
